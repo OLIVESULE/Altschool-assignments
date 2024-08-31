@@ -1,0 +1,19 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    align-content: center;
+    background-color: gray;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
+.video{
+    height: 300px;
+    width: 300px;
+}
+section{margin: 20px;}
